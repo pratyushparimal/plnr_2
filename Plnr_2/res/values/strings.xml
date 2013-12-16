@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Geek Serendipity</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="menu_settings">Options</string>
+    <string name="send">Send</string>
+    <string name="sendMessage">sendMessage</string>
+    <string name="emptystring"></string>
+    <string name="title_activity_geekwatch">GeekwatchActivity</string>
+    
+    <string name="country_name">Choose a subject</string>
+    <string-array name="subjects">
+      <item>Algorithms</item>
+      <item>Machine Learning</item>
+      <item>NLP</item>
+      <item>Operating Systems</item>
+      <item>Biometrics</item>
+      <item>Cloud Computing</item>
+      <item>Data Mining</item>
+  </string-array>
+
+</resources>
